@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_9de30d6d310745e300a67924f4b92726760a6564.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a633b2477daf3fe79a9f630b8c785b24c888ff22.jar" />
+    </item>
+    <item
+        jar="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a73177d89f84768ae2a39d1af9f708cf4c692e">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\instant-run_ca801af55d498e7d223575f0c7b003568ffe4576.jar" />
+    </item>
+    <item
+        jar="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6542285b5da44e097796a67d0acd414a4efa834">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f6a8752895dd2c1801d8e62ece095b95f16475ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\dongxu\Desktop\QQSlideMenu\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_b86ee4aaf380a5e5bbeb092f2efdb9a7b359c8e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b9c3bf6fb61f0408564715417765006c01eb592f.jar" />
+    </item>
+
+</items>

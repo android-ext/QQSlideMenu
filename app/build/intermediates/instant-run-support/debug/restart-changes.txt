@@ -1,0 +1,1 @@
+CHANGED,C:\Users\dongxu\Desktop\QQSlideMenu\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\itheima74\qqslidemenu\MainActivity$2.class

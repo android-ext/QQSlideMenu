@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head.png",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

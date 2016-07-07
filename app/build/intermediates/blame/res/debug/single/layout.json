@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "C:\\Users\\dongxu\\Desktop\\QQSlideMenu\\app\\src\\main\\res\\layout\\layout_main.xml"
+    }
+]
